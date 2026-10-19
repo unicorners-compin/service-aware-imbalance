@@ -1,0 +1,8 @@
+{
+  "url": "https://snap.stanford.edu/data/oregon1_010331.txt.gz",
+  "dataset_page": "https://snap.stanford.edu/data/Oregon-1.html",
+  "snapshot": "2001-03-31",
+  "sha256": "6e43679e9b39eb72a058872c7c30c5b5bf5aac21879c202980c729b317111b25",
+  "bytes": 69141,
+  "provenance": "independent reconstruction, original dataset identity unverified"
+}
